@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CalendarView custom style -->
+    <style name="CalendarViewCustom" parent="Theme.AppCompat">
+        <item name="colorAccent">#5E35B1</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+
+    <!-- CalendarView date text custom style -->
+    <style name="CalendarViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:weekNumberColor">#5E35B1</item>
+    </style>
+
+    <!-- CalendarView week day text custom style -->
+    <style name="CalendarViewWeekCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+
+
+</resources>
