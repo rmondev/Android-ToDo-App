@@ -65,7 +65,7 @@ A simple yet effective splash screen that welcomes users to the app.
 
 See the app in action with this demonstration video:
 
-
+https://github.com/rmondev/Android-ToDo-App/assets/85075744/c6daefd0-7ae2-4591-9f75-de89cc372f9c
 
 ## Repository Extraction
 
