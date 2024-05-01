@@ -1,6 +1,6 @@
 # Android To Do List App
 
-This application showcases the implementation of various android UI Elements and databse functionality.
+This application showcases the implementation of various android UI Elements and Room database functionality.
 
 ## Features
 
